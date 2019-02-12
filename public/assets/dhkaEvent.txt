@@ -1,0 +1,10 @@
+Test Server cPanel:
+
+| Domain: event.dhakaapps.com
+| cPanel Login: event.dhakaapps.com:2082
+| UserName: eventdha
+| PassWord: V~)=05d%nFS-
+
+lemon.thakur@issl.com.bd
+
+email pasword: $eprpRI,@cA*

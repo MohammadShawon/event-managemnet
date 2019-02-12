@@ -1,0 +1,142 @@
+/*.center {
+    width: 528px;
+    height: 369.6px;
+    margin: auto;
+    position: relative;
+    border: 1px solid #d9d9d9;
+    background-color: #fff;
+    vertical-align: middle;
+}
+
+.center h3 {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center #job_title {
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center #company_name {
+    margin: 0;
+    position: absolute;
+    top: 41%;
+    left: 50%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center .qr-code{
+    margin: 0;
+    position: absolute;
+    top: 51%;
+    left: 50%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center #reg{
+    margin: 0;
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}*/
+
+/*#nothin{
+    width: 355px !important;
+    height: 451px !important;
+    margin-left: 150px !important;
+    margin-right: 150px !important;
+    vertical-align: middle;
+}
+*/
+.center {
+    /*width: 528px;
+    height: 369.6px;*/
+    /*max-width: 355px !important;
+    max-height: 451px !important;
+    margin-left: 150px !important;
+    margin-right: 150px !important;*/
+    /*border: 1px solid #d9d9d9;*/
+    /*background-color: #fff;*/
+    /*vertical-align: middle;*/
+
+}
+
+
+
+/*.center #divHeight{
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}*/
+
+/*.center h3 {
+    margin: 0;
+    position: absolute;
+    top: 60px;
+    left: 5px;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}*/
+
+/*.center #job_title {
+    margin: 0;
+    position: absolute;
+    padding-top: 20px !important;
+    left: 15%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center #company_name {
+    margin: 0;
+    position: absolute;
+    top: 24%;
+    left: 15%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center .qr-code{
+    margin: 0;
+    position: absolute;
+    top: 31%;
+    left: 15%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center #reg{
+    margin: 0;
+    position: absolute;
+    top: 37%;
+    left: 15%;
+    color: #000;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}*/
